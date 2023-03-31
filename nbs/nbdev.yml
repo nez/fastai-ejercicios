@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ejercicios"
+  site-url: "https://nex.github.io/ejercicios"
+  description: "ejercicios de fastai"
+  repo-branch: main
+  repo-url: "https://github.com/nex/ejercicios"
